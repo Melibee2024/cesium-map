@@ -1,7 +1,7 @@
 import * as Cesium from 'cesium'
 import 'cesium/Build/Cesium/Widgets/widgets.css'
 
-window.CESIUM_BASE_URL = '/cesium'
+window.CESIUM_BASE_URL = '/cesium-map/cesium'
 
 Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIzMjA0NjkwZi1iMjk5LTQwMGItOTYwYy1lZGZiMDc5YzI5ZWMiLCJpZCI6NDM4MzE1LCJzdWIiOiJNZWxpYmVlMjAyNCIsImlzcyI6Imh0dHBzOi8vYXBpLmNlc2l1bS5jb20iLCJhdWQiOiJ2aXRlX2Fzc2lnbm1lbnQiLCJpYXQiOjE3ODI1MDUwMTd9.Pu1u_0-LV1RvssWJ1WnhvbwVnqdaBct-SXskrpKYm0s'
 
